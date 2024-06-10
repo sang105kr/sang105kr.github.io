@@ -33,7 +33,7 @@
   - [등산 정보 검색 및 커뮤너티 서비스](https://youtu.be/hjBpcs0HKKU)
 - **산출물** 
   
-- **소스코드** [링크](https://sang105kr.github.com/sang105kr/kdt_demo.git)
+- **소스코드** [링크](https://github.com/sang105kr/kdt_demo.git)
 ---
 ### 파이널프로젝트
 - **목적**: [프로젝트 목적]
@@ -47,7 +47,7 @@
   - [공공데이터를 활용한 여행지정보제공 및 여행 일정 생성 서비스](https://youtu.be/50OFf5r6NGw)
   
 - **산출물** 
-- **소스코드** [링크](https://sang105kr.github.com/sang105kr/kdt_demo.git)
+- **소스코드** [링크](https://github.com/sang105kr/kdt_demo.git)
   
 ---  
 
